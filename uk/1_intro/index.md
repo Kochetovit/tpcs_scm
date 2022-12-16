@@ -16,8 +16,8 @@
 2. План разработки ПО.
 3. План верификации ПО.
 4. Стандарт на кодирование ПО.
-5. Github Documentation. — Текст : электронный // Github : [сайт]. — URL: https://docs.github.com/ru
-6. Git Manual. — Текст : электронный // Git : [сайт]. — URL: https://git-scm.com/docs/user-manual
+5. Github Documentation. — Текст: электронный // Github: [сайт]. — URL: https://docs.github.com/ru
+6. Git Manual. — Текст: электронный // Git: [сайт]. — URL: https://git-scm.com/docs/user-manual
 
 ### Термины, определения и соглашения
 
